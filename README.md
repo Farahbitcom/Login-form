@@ -1,1 +1,1 @@
-A responsive Login page uing Html, CSS, Javascript with animated background picture.
+A modern and responsive login page designed using HTML, CSS, and JavaScript, featuring a visually engaging animated background that enhances user experience. The interface focuses on clean layout, smooth animations, and intuitive form design, while maintaining usability and responsiveness across devices. This project highlights strong UI/UX skills, CSS animations, and attention to modern web design trends.
